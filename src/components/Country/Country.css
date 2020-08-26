@@ -1,0 +1,14 @@
+.country-container{
+    display: flex;
+    text-align: center;
+    border: 1px solid lightblue;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px lightgrey;
+    padding: 20px;
+    margin: 10px;
+}
+.country-img{
+    width: 250px ;
+    margin-right:20px;
+    margin-left: 20px;
+}
